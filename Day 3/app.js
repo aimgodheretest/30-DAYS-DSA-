@@ -1,5 +1,5 @@
 //FUNCTION PRACTICE;
-//1.Question 1: Add Two Integers[Leetcode-2235]
+//1.Add Two Integers[Leetcode-2235]
 function sum(x, y) {
   return x + y;
 }
